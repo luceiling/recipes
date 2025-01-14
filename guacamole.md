@@ -5,3 +5,6 @@
 * lime - $.99
 * salt $ .30
 ## Instructions
+* mash avocados
+* squish lime
+* add salt
