@@ -1,7 +1,7 @@
 # Guacamole
 
 ## Ingredients
-* avocado
-* lime
-* salt
+* avocado - $4.99
+* lime - $.99
+* salt $ .30
 ## Instructions
